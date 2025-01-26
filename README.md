@@ -10,4 +10,5 @@ Use https://github.com/brutella/hap
 ## Preview
 
 ![homekit](screenshot.switch.homekit.png)
+    
 ![term](screenshot.switch.term.png)
